@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/GrimLight/static/css/main.2d96c756.css",
-    "main.js": "/GrimLight/static/js/main.a50417b5.js",
+    "main.css": "/GrimLight/static/css/main.3533fd9c.css",
+    "main.js": "/GrimLight/static/js/main.8c1493e9.js",
     "index.html": "/GrimLight/index.html",
-    "main.2d96c756.css.map": "/GrimLight/static/css/main.2d96c756.css.map",
-    "main.a50417b5.js.map": "/GrimLight/static/js/main.a50417b5.js.map"
+    "main.3533fd9c.css.map": "/GrimLight/static/css/main.3533fd9c.css.map",
+    "main.8c1493e9.js.map": "/GrimLight/static/js/main.8c1493e9.js.map"
   },
   "entrypoints": [
-    "static/css/main.2d96c756.css",
-    "static/js/main.a50417b5.js"
+    "static/css/main.3533fd9c.css",
+    "static/js/main.8c1493e9.js"
   ]
 }
