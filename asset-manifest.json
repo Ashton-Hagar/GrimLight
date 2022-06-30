@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/GrimLight/static/css/main.2d96c756.css",
+    "main.js": "/GrimLight/static/js/main.2c7b0e45.js",
+    "index.html": "/GrimLight/index.html",
+    "main.2d96c756.css.map": "/GrimLight/static/css/main.2d96c756.css.map",
+    "main.2c7b0e45.js.map": "/GrimLight/static/js/main.2c7b0e45.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2d96c756.css",
+    "static/js/main.2c7b0e45.js"
+  ]
+}
